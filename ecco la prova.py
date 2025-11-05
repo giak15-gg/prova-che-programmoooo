@@ -1,7 +1,7 @@
 input(target)
 
 input(targetID)
-print("siuuuuu")
+
 
 if input succeds print("fatto!")
 
