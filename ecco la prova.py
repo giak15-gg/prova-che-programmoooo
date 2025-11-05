@@ -5,12 +5,10 @@ print("siuuuuu")
 
 if input succeds print("fatto!")
 
-if input succeds show(ip) = (1)
-
-if input break = showIP
+if input succeds show(ip) = (1) = 
 
 
 if a = 999
-     break
+     
 
 
